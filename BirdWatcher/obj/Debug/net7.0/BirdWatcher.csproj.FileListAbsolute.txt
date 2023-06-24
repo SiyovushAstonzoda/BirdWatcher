@@ -1,0 +1,15 @@
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.csproj.AssemblyReference.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.AssemblyInfoInputs.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.AssemblyInfo.cs
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\bin\Debug\net7.0\BirdWatcher.exe
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\bin\Debug\net7.0\BirdWatcher.deps.json
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\bin\Debug\net7.0\BirdWatcher.runtimeconfig.json
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\bin\Debug\net7.0\BirdWatcher.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\bin\Debug\net7.0\BirdWatcher.pdb
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\refint\BirdWatcher.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.pdb
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\BirdWatcher.genruntimeconfig.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice3\BirdWatcher\obj\Debug\net7.0\ref\BirdWatcher.dll
